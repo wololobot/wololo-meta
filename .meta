@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "models": "git@github.com:wololobot/wololo-models.git",
+    "data": "git@github.com:wololobot/wololo-data.git",
+    "core": "git@github.com:wololobot/wololo-core.git",
+    "api": "git@github.com:wololobot/wololo-api.git",
+    "bot": "git@github.com:wololobot/wololo-bot.git"
+  }
+}
