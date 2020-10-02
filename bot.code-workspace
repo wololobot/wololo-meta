@@ -16,9 +16,6 @@
 			"path": "data"
 		},
 		{
-			"path": "models"
-		},
-		{
 			"path": "."
 		}
 	],

@@ -1,10 +1,9 @@
 {
   "projects": {
-    "models": "git@github.com:wololobot/wololo-models.git",
-    "data": "git@github.com:wololobot/wololo-data.git",
-    "core": "git@github.com:wololobot/wololo-core.git",
-    "api": "git@github.com:wololobot/wololo-api.git",
-    "bot": "git@github.com:wololobot/wololo-bot.git",
-    "site": "git@github.com:wololobot/wololo-site.git"
+    "data": "https://github.com/wololobot/wololo-data.git",
+    "core": "https://github.com/wololobot/wololo-core.git",
+    "api": "https://github.com/wololobot/wololo-api.git",
+    "discord": "https://github.com/wololobot/wololo-discord.git",
+    "site": "https://github.com/wololobot/wololo-site.git"
   }
 }
